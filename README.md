@@ -8,8 +8,6 @@
 - 📫 How to reach me: ... chad.holst@hotmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I used to be a Heavy Duty Mechanic (fixing construction machinery) and now I am pursuing Software Engineering
-
--->
-  current engineering student;
-  future software engineer;
-  return Chad Holst;
+- current engineering student;
+- future software engineer;
+- return Chad Holst;

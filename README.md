@@ -7,3 +7,5 @@
 - ⚡ Fun fact: ... I used to be a heavy duty equipment technician (repairing/maintaining highway and off-road machinery) and now I am pursuing software engineering
 
 return Chad Holst;
+
+![](https://komarev.com/ghpvc/?username=HolstCh)

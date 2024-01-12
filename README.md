@@ -1,4 +1,4 @@
-### Welcome! I'm Chad, and here's a little about myself:
+### Welcome! I'm Chad, here is a little about myself:
 
 - 🔭 I’m currently working on ... starting my second career as a software engineer.
 - 👯 I’m looking to collaborate on ... anything that will help me enhance my coding skills on this journey.

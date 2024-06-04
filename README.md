@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on ... anything that will help me enhance my coding skills on this journey.
 - 💬 Ask me about ... solo backpacking Europe, hiking, or snowboarding.
 - 📫 How to reach me: ... [holstch@outlook.com](mailto:holstch@outlook.com), [LinkedIn](https://www.linkedin.com/in/chad-holst-31145b247/), or [Portfolio](https://www.chadsportfolio.ca).
-- ⚡ Fun fact: ... I used to be a heavy-duty equipment technician, repairing and maintaining highway and off-road machinery. Now, I am a recent software engineering graduate.
+- ⚡ Fun fact: ... I used to be a Heavy Equipment Technician, repairing and maintaining highway and off-road machinery. Now, I am a recent software engineering graduate.
 
 return Chad Holst;
 
